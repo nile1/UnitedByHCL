@@ -64,7 +64,8 @@ public class MainActivity extends Activity{
 		mv = new Mapper(getApplicationContext(), 1000, 730, 40, 30);
 	    MapLoader load = new MapLoader();
 	    map = new PedometerMap();
-		map = load.loadMap(myfile, "labroom.svg");
+		try{
+		map = load.loadMap(myfile, "labroom.svg");}catch(Exception e){}
 		mv.setMap(map);
 		
 		registerForContextMenu(mv);
