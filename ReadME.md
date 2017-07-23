@@ -2,15 +2,15 @@ Welcome to IndiN (Indoor Intelligent Navigation)
 ===================
 
 
-**Hello World!** This is our prototype for **United By HCL Hackathon 2017**.  This repository contains content  for Phase 2 Submission of the hackathon. We hope you find it awesome, as we did while writing it. 
+**Hello World!** 😎 This is our prototype for **United By HCL Hackathon 2017**.  This repository contains content  for Phase 2 Submission of the hackathon. We hope you find it awesome, as we did while writing it. 😍
 
->- **Note** - We have separate descriptions and screenshots inside each of the modules you see here. If you wanna skip the introduction here,  jump right into code, But we **strongly recommend** you to go through this page first, as it provides a clear introduction to our project and its capabilities. Do check it out!
->- You will find our Android Submission here, **don't worry we've got iOS also covered**, But just for the sake of brevity. We'll talk about Android here.
-
-
+>- **Note** - We have separate descriptions and screenshots inside each of the modules you see here 👆🏻. If you wanna skip the introduction here,  jump right into code, But we **strongly recommend** you to go through this 👇🏻 page first, as it provides a clear introduction to our project and its capabilities. Do check it out!
+>- You will find our Android Submission here, **don't worry we've got iOS also covered**, But just for the sake of brevity, We'll talk about Android here.
 
 
-Project Title - IndiN (Indoor Intelligent Navigation)
+
+
+Project Title - IndiN (Indoor Intelligent Navigation)👣
 ===================
 
 ![WorkFlow Diagram](https://lh3.googleusercontent.com/-kKH7G_lTGRA/WXRAYR0RL0I/AAAAAAAAK-o/waRnnrT-cKI5a3vDblcrIvQbcdVvSZVQQCE0YBhgL/s0/UnitedByHCL1.png "UnitedByHCL1.png")
@@ -39,7 +39,7 @@ In the next section, we discuss the operation of our prototype model.
 
 Procedure  
 ===================
-AIM: To deploy a cost-efficient Indoor Positioning System for multi-storey building using Wi-Fi, Bluetooth, Phone's Accelerometer
+**AIM: To deploy a cost-efficient Indoor Positioning System for multi-storey building using Wi-Fi, Bluetooth, Phone's Accelerometer**
 
 Using MapWize SDK to map the building.
 
@@ -71,19 +71,19 @@ Bluetooth discovery is moved to the Bluetooth hotspots. When a hotspot detects a
 
 Advantages:
 --------------------
-•	An advantage of this model is its ability to increase the scanning frequency on the Bluetooth hotspots. Usually, mobile devices cannot operate with a high frequency of Bluetooth scanning, which is recommended to be as high as once each 10 or 14 seconds, making the system power efficient.
+•	An advantage of this model is its ability to increase the scanning frequency on the Bluetooth hotspots. Usually, mobile devices cannot operate with a high frequency of Bluetooth scanning, which is recommended to be as high as once each 10 or 14 seconds, making the system power efficient.👨🏻‍🔬
 
-•	The system is highly modularized with low level of coupling, this allows multiple modules present to work on top of each other enhancing accuracy and performance. All modules (Bluetooth module, Wi-Fi Fingerprinting module and Phone position module) work on top of the foundational Pedometer module and are optional in nature, i.e. presence of these modules enhances accuracy and quality whereas absence doesn’t halt the navigation.
+•	The system is highly modularized with low level of coupling, this allows multiple modules present to work on top of each other enhancing accuracy and performance. All modules (Bluetooth module, Wi-Fi Fingerprinting module and Phone position module) work on top of the foundational Pedometer module and are optional in nature, i.e. presence of these modules enhances accuracy and quality whereas absence doesn’t halt the navigation.🚶🏻
 
 •	The Scanning for position change is done very frequently, whereas data transmission between server and device takes place after a certain fixed interval, this results in data saving and less congestion on the network.
 
-•	Unprecedented level of accuracy (up to 0.5 m) achieved using combination of several on device sensors and Machine Learning algorithms on the server.
+•	Unprecedented level of accuracy (up to 0.5 m) achieved using combination of several on device sensors and Machine Learning algorithms on the server.🙌🏻
 
 •	Over the complete system, we assume that Bluetooth and Wi-Fi scanning are performed independently and asynchronously. Also this system will only work when there is a movement detected through accelerometer reading, reducing unnecessary computations and improving power efficiency even further.
 
 •	The system is built on top of common infrastructural facilities such as Wi-Fi and fully leverages the power of multiple on-device sensors. Except for use of Bluetooth beacons, which also are used in quite less number than in case of existing architectures. The result is an overall system which is inexpensive, performant and adaptive.
 
-•	The application would be available for Android and iOS with support for Smart watches.
+•	The application would be available for Android and iOS with support for Smart watches.😍😍😍
 
 Technology Stack  
 -------------
@@ -116,17 +116,17 @@ Xcode 9, Swift 4 and Frameworks - <br />
 
 
 
-Repository Contents  
+Submission Content Description 🔥🔥🔥
 -------------
 
 • As depicted in workflow diagram above, we are providing all the modules along with their deployment instructions. 
 
-• One of these (RedPin) is an open source project and the rest are made by us. These working modules can be considered as a prototype/ POC of our idea presented. 
+• One of these (RedPin) is an open source project and the rest are made by us. These working modules should be considered as a prototype/ POC of our idea presented. 
 
 • Although all these modules can work independently, but the real strength of the system is achieved when we integrate them, which we proposed in Phase 1.
 
 • Once in Phase 3, we can easily integrate and build Android & iOS Apps having all these modules working together, seamlessly.
-We can't wait to show you the super exciting and marvellous solution we have achieved at Old Trafford!
+We can't wait to show you the super exciting and marvellous solution we have achieved at Old Trafford!😎🤗
 
 Module 1 :  Wifi Indore Positioning System
 Module 2 :  Bluetooth Indore Positioning System
@@ -136,11 +136,11 @@ Module 4 :  Phone Position module with respective to Human body to estimate step
 
 Concluding Remarks  
 -------------
-We are pleased to see you here! We sincerely Hope you like our submission. Its **100% Working**, We dearly look forward to Phase 3, where we can show you **IndiN** in all its might upon integration of all its modules presented above. We also made a brief video to show you how it works! Its here #Link.
-We've seen it and it is surely <i class="icon-heart"></i>. We are very confident that you'll love it too.
+We are pleased to see you here! We sincerely Hope you like our submission 🙏🏻. Its **100% Working**, We dearly look forward to Phase 3, where we can show you **IndiN** in all its might upon integration of all its modules presented above. We also made a brief video to show you how it works! Its here #Link.
+We've seen it and it is surely ❤️. We are very confident that you'll love it too.
 
-See you at Old Trafford! (If you let us : ) )
+See you at Old Trafford! 🤠 ✈️✈️✈️(If you let us 😉 )
 
 Best Wishes!
 **Team VisionArray**
-**INDIA**
+**INDIA** 🇮🇳🇮🇳🇮🇳
