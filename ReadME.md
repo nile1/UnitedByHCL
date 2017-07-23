@@ -55,22 +55,21 @@ NFC (Near Field Communication) in the smart phone (if present) to detect entry i
 To take things further, we integrate our custom-designed ‘Phone Position’ module, which can detect the position of the phone with respect to the human body, i.e., in hand, in bag, in pocket etc. This results in greater accuracy in calculation of user position based on data received from on-device sensors.
 
 
-----------
 
 
 Additional Implementation details
 -------------
-> -	To accomplish this, a CMS (Content Management System) will be deployed on the Local servers to communicate with each mobile device. Even though the above processing can work on client device, it is highly power consuming and could use too much computation power which might not be available on devices such as smart watches. 
+	To accomplish this, a CMS (Content Management System) will be deployed on the Local servers to communicate with each mobile device. Even though the above processing can work on client device, it is highly power consuming and could use too much computation power which might not be available on devices such as smart watches. 
 
-> -	To minimise the computation on client device, we will offload the computationally intensive work loads to the local server which will provide the client device with processed navigational information.
+	To minimise the computation on client device, we will offload the computationally intensive work loads to the local server which will provide the client device with processed navigational information.
 
-> - It will relay RSSI values to a Real-time Database, query the real-time database for its calculated position and will receive contextual information relating to its position inside the building where beacons have been setup. 
+	 It will relay RSSI values to a Real-time Database, query the real-time database for its calculated position and will receive contextual information relating to its position inside the building where beacons have been setup. 
 
-> - Bluetooth discovery is moved to the Bluetooth hotspots. When a hotspot detects a device in its range, it sends information to the server. To reduce traffic and computation, the server side database is updated only when a device enters or leaves the range of a hotspot.
+	 Bluetooth discovery is moved to the Bluetooth hotspots. When a hotspot detects a device in its range, it sends information to the server. To reduce traffic and computation, the server side database is updated only when a device enters or leaves the range of a hotspot.
 
 
 
-----------
+
 
 
 Advantages:
@@ -93,9 +92,9 @@ Technology Stack
 -------------
 
 •	Hardware and Services
-			Bluetooth Beacons
-			Wi-Fi 
-			Smartphone & Smart Watch
+	Bluetooth Beacons
+	Wi-Fi 
+	Smartphone & Smart Watch
 
 •	Android 
 			Android Studio 3 (Java/Kotlin)
