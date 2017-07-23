@@ -139,7 +139,7 @@ Module 4 :  Phone Position module  to estimate step Length with respective to Hu
 
 Concluding Remarks  🙏🏻
 -------------
-We are pleased to see you here! We sincerely Hope you like our submission 🙏🏻. Its **100% Working**, We dearly look forward to Phase 3, where we can show you **IndiN** in all its might upon integration of all its modules presented above. We also made a brief video to show you how it works! Its here #Link.
+We are pleased to see you here! We sincerely Hope you like our submission 🙏🏻. Its **100% Working**, We dearly look forward to Phase 3, where we can show you **IndiN** in all its might upon integration of all its modules presented above. We also made a brief video to show you some of its intelligence! Its here https://youtu.be/f4Z9PabEKsc.
 We've seen it and it is surely ❤️. We are very confident that you'll love it too.
 
 See you at Old Trafford! 🤠 ✈️✈️✈️(If you let us 😉 )
