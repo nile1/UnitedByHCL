@@ -2,13 +2,13 @@ Welcome to IndiN (Indoor Intelligent Navigation)
 ===================
 
 
-**Hello World!** This is our prototype for **United By HCL Hackathon 2017**.  This repository contains content  for Phase 2 Submission of the hackathon. We hope you find it awesome, as we did while writing it. <i class="icon-heart"></i>
+**Hello World!** This is our prototype for **United By HCL Hackathon 2017**.  This repository contains content  for Phase 2 Submission of the hackathon. We hope you find it awesome, as we did while writing it. 
 
 >- **Note** - We have separate descriptions and screenshots inside each of the modules you see here. If you wanna skip the introduction here,  jump right into code, But we **strongly recommend** you to go through this page first, as it provides a clear introduction to our project and its capabilities. Do check it out!
 >- You will find our Android Submission here, **don't worry we've got iOS also covered**, But just for the sake of brevity. We'll talk about Android here.
 
 
-----------
+
 
 Project Title - IndiN (Indoor Intelligent Navigation)
 ===================
@@ -34,7 +34,7 @@ we have examined a large number of machine learning algorithms for indoor locali
 In the next section, we discuss the operation of our prototype model.
 
 
-----------
+
 ![Block Diagram](https://lh3.googleusercontent.com/-KFJ821R-Jp8/WXRAnQKXJgI/AAAAAAAAK-0/rtw73-1poVIP1QSFlMER1feajrb2pR4CACLcBGAs/s0/BlockDiagramHCL.png "BlockDiagramHCL.png")
 
 Procedure  
@@ -93,26 +93,26 @@ Technology Stack
 -------------
 
 •	Hardware and Services
-		>-	Bluetooth Beacons
-		>-	Wi-Fi 
-		>-	Smartphone & Smart Watch
+			Bluetooth Beacons
+			Wi-Fi 
+			Smartphone & Smart Watch
 
 •	Android 
-		>-	Android Studio 3 (Java/Kotlin)
-		>-	MapWize SDK for Android
-		>-	WEKA
-		>-	Volley
-		>-	NFC module
-		>-	Google Analytics
+			Android Studio 3 (Java/Kotlin)
+			MapWize SDK for Android
+			WEKA
+			Volley
+			NFC module
+			Google Analytics
 
 •	iOS
-		>-	Xcode 9, Swift 4 and Frameworks - 
+			Xcode 9, Swift 4 and Frameworks - 
 			Mapwize SDK for iOS
-			SwiftLocation
-			Hydra 
-			Alamofire etc.
-		>-	Realm Mobile Platform for Real-time Database and Synchronisation
-		>-	Google Cloud Platform/ Heroku for Test Deployment
+			SwiftLocation
+			Hydra 
+			Alamofire etc.
+			Realm Mobile Platform for Real-time Database and Synchronisation
+			Google Cloud Platform/ Heroku for Test Deployment
 
 
 Concluding Remarks  
