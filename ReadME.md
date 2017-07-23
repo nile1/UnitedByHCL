@@ -89,27 +89,30 @@ Technology Stack
 -------------
 
 •	Hardware and Services<br />
+-------------
 Bluetooth Beacons<br />
 Wi-Fi <br />
 Smartphone & Smart Watch<br />
 
 •	Android <br />
-			Android Studio 3 (Java/Kotlin)<br />
+-------------
+Android Studio 3 (Java/Kotlin)<br />
 			MapWize SDK for Android<br />
 			WEKA<br />
 			Volley<br />
-			NFC module<br /><br />
-			Google Analytics
+			NFC module<br />
+			Google Analytics			
 
 •	iOS
-			Xcode 9, Swift 4 and Frameworks - <br />
+-------------
+Xcode 9, Swift 4 and Frameworks - <br />
 			Mapwize SDK for iOS<br />
 			SwiftLocation<br />
 			Hydra <br />
 			Alamofire etc.<br />
 			Realm Mobile Platform for Real-time Database and Synchronisation<br />
 			Google Cloud Platform/ Heroku for Test Deployment<br />
-
+			
 
 Concluding Remarks  
 -------------
