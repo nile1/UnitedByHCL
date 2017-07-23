@@ -10,13 +10,13 @@ Welcome to IndiN (Indoor Intelligent Navigation)
 
 ----------
 
-Title - IndiN (Indoor Intelligent Navigation)
+Project Title - IndiN (Indoor Intelligent Navigation)
 ===================
 
 ![WorkFlow Diagram](https://lh3.googleusercontent.com/-kKH7G_lTGRA/WXRAYR0RL0I/AAAAAAAAK-o/waRnnrT-cKI5a3vDblcrIvQbcdVvSZVQQCE0YBhgL/s0/UnitedByHCL1.png "UnitedByHCL1.png")
 
-2.	Contextual Information & Workflow  
--------------
+Contextual Information & Workflow  
+===================
 The Global Navigation Satellite Systems (GNSS) suffer from accuracy deterioration and outages in dense urban canyons and are almost unavailable for indoor environments. Nowadays, developing indoor positioning systems has become an attractive research topic due to the increasing demands on ubiquitous positioning. As smartphones and other mobile devices become ubiquitous, applications that are able to harness contextual information such as position become increasingly powerful. Uses for indoor localization systems include context-based targeted advertising, emergency response and assisted living, robotics applications, and indoor navigation in places such as airports, malls, and campuses. 
 
 Indoor localization research has garnered a good deal of interest from both academia and industry. It has been presented in numerous ways with different levels of accuracy and feasibility, but has still been sibylline and has not leveraged the full potential of the existing infrastructure. 
@@ -37,8 +37,8 @@ In the next section, we discuss the operation of our prototype model.
 ----------
 ![Block Diagram](https://lh3.googleusercontent.com/-KFJ821R-Jp8/WXRAnQKXJgI/AAAAAAAAK-0/rtw73-1poVIP1QSFlMER1feajrb2pR4CACLcBGAs/s0/BlockDiagramHCL.png "BlockDiagramHCL.png")
 
-3.	Procedure  
--------------
+Procedure  
+===================
 AIM: To deploy a cost-efficient Indoor Positioning System for multi-storey building using Wi-Fi, Bluetooth, Phone's Accelerometer
 
 Using MapWize SDK to map the building.
