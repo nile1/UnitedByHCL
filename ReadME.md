@@ -127,11 +127,11 @@ Submission Content Description 🔥🔥🔥
 
 • Once in Phase 3, we can easily integrate and build Android & iOS Apps having all these modules working together, seamlessly.
 We can't wait to show you the super exciting and marvellous solution 👌🏻👌🏻👌🏻 we have achieved at Old Trafford!😎🤗
-
-Module 1 :  Wifi Indore Positioning System
-Module 2 :  Bluetooth Indore Positioning System
-Module 3 :  Dead Reckoning using Pedometer & Compass
-Module 4 :  Phone Position module with respective to Human body to estimate step Length and improve Module 3.
+<br />
+Module 1 :  Wifi Indore Positioning System<br />
+Module 2 :  Bluetooth Indore Positioning System<br />
+Module 3 :  Dead Reckoning using Pedometer & Compass<br />
+Module 4 :  Phone Position module with respective to Human body to estimate step Length and improve Module 3.<br />
 
 
 Concluding Remarks  🙏🏻
@@ -141,6 +141,6 @@ We've seen it and it is surely ❤️. We are very confident that you'll love it
 
 See you at Old Trafford! 🤠 ✈️✈️✈️(If you let us 😉 )
 
-Best Wishes!
-**Team VisionArray**
-**INDIA** 🇮🇳🇮🇳🇮🇳
+Best Wishes!<br />
+**Team VisionArray**<br />
+**INDIA** <br />🇮🇳🇮🇳🇮🇳
