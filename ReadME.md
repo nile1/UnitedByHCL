@@ -5,7 +5,7 @@ Welcome to IndiN (Indoor Intelligent Navigation)
 **Hello World!** 😎 This is our prototype for **United By HCL Hackathon 2017**.  This repository contains content  for Phase 2 Submission of the hackathon. We hope you find it awesome, as we did while writing it. 😍
 
 >- **Note** - We have separate descriptions and screenshots inside each of the modules you see here 👆🏻. If you wanna skip the introduction here,  jump right into code, But we **strongly recommend** you to go through this 👇🏻 page first, as it provides a clear introduction to our project and its capabilities. Do check it out!
->- You will find our Android Submission here, **don't worry we've got iOS also covered**, But just for the sake of brevity, We'll talk about Android here.
+>- You will find our Android Submission here, **don't worry we've got iOS also covered**👨🏻‍💻, But just for the sake of brevity, We'll talk about Android here.
 
 
 
@@ -15,7 +15,7 @@ Project Title - IndiN (Indoor Intelligent Navigation)👣
 
 ![WorkFlow Diagram](https://lh3.googleusercontent.com/-kKH7G_lTGRA/WXRAYR0RL0I/AAAAAAAAK-o/waRnnrT-cKI5a3vDblcrIvQbcdVvSZVQQCE0YBhgL/s0/UnitedByHCL1.png "UnitedByHCL1.png")
 
-Contextual Information & Workflow  
+Contextual Information & Workflow 👁 
 ===================
 The Global Navigation Satellite Systems (GNSS) suffer from accuracy deterioration and outages in dense urban canyons and are almost unavailable for indoor environments. Nowadays, developing indoor positioning systems has become an attractive research topic due to the increasing demands on ubiquitous positioning. As smartphones and other mobile devices become ubiquitous, applications that are able to harness contextual information such as position become increasingly powerful. Uses for indoor localization systems include context-based targeted advertising, emergency response and assisted living, robotics applications, and indoor navigation in places such as airports, malls, and campuses. 
 
@@ -25,11 +25,11 @@ Recent models use a single wireless technology for mapping the user in space as 
 
 It is known that Wi-Fi signals diffuse in space and have greater coverage on the other hand, RFID and Bluetooth only work in a very small limited range. Due to requirement of significant infrastructural changes and dedicated sensors, these systems incur a heavy cost of deployment. The associated cost makes it feasible only to deploy a minimum number of such sensors in the premise, resulting errors in positioning. Lastly, the Infrared based positioning systems suffer from limitations such as low data rate and strict directionality, which are decisive for the performance of an indoor positioning system. 
  
-Our prototype concocts the best of above stated methods along with technologies such as NFC and On-Device Pedometer (Accelerometer + Gyroscope) to improve performance and quality of the resulting navigation system.
+Our prototype concocts the best of above stated methods along with technologies such as NFC and On-Device Pedometer (Accelerometer + Gyroscope) to improve performance and quality of the resulting navigation system.💁🏻‍♂️
 
 It is based on ‘Fingerprinting’ approach of localisation to locate the user in space utilising a nearest neighbour in signal space. Localization systems that use a nearest neighbour in signal space approach require collection of data points throughout the room or building they will be deployed in. To predict a position, a new set of attributes constituting a new data point is compared with every point in the classified dataset. Depending on the implementation of the k-Nearest Neighbour algorithm, the coordinates of the closest point are used as the coordinates for the new point or an average of k closest points can be used with different weights. These instance-based machine learning approaches can achieve accuracies up to 2 meters on average, but current research is limited in that and only one or few algorithms are considered and even they don’t take into account many of the sensors available in most modern mobile devices. Further, these algorithms are limited by the size of the dataset. A very large dataset will require a substantial amount of time to predict a position, hindering real-world deployment. 
 
-we have examined a large number of machine learning algorithms for indoor localization based on the sensors readily available in smartphones. We have found algorithms giving an accuracy up to 0.76 meters on average in a real- world environment without the need for dedicated hardware or changes to infrastructure, outperforming algorithms considered in previous research.
+we have examined a large number of machine learning algorithms for indoor localization based on the sensors readily available in smartphones. We have found algorithms giving an accuracy up to 0.76 meters on average in a real- world environment without the need for dedicated hardware or changes to infrastructure, outperforming algorithms considered in previous research.🕺🏽🕺🏽🕺🏽
 
 In the next section, we discuss the operation of our prototype model.
 
@@ -121,12 +121,12 @@ Submission Content Description 🔥🔥🔥
 
 • As depicted in workflow diagram above, we are providing all the modules along with their deployment instructions. 
 
-• One of these (RedPin) is an open source project and the rest are made by us. These working modules should be considered as a prototype/ POC of our idea presented. 
+• One of these (RedPin) is an open source project and the rest are made by us. These working modules should be considered as a prototype/ POC of our idea presented. 🤳🏻
 
-• Although all these modules can work independently, but the real strength of the system is achieved when we integrate them, which we proposed in Phase 1.
+• Although all these modules can work independently, but the real strength of the system is achieved when we integrate them, which we proposed in Phase 1.✨✨✨
 
 • Once in Phase 3, we can easily integrate and build Android & iOS Apps having all these modules working together, seamlessly.
-We can't wait to show you the super exciting and marvellous solution we have achieved at Old Trafford!😎🤗
+We can't wait to show you the super exciting and marvellous solution 👌🏻👌🏻👌🏻 we have achieved at Old Trafford!😎🤗
 
 Module 1 :  Wifi Indore Positioning System
 Module 2 :  Bluetooth Indore Positioning System
@@ -134,7 +134,7 @@ Module 3 :  Dead Reckoning using Pedometer & Compass
 Module 4 :  Phone Position module with respective to Human body to estimate step Length and improve Module 3.
 
 
-Concluding Remarks  
+Concluding Remarks  🙏🏻
 -------------
 We are pleased to see you here! We sincerely Hope you like our submission 🙏🏻. Its **100% Working**, We dearly look forward to Phase 3, where we can show you **IndiN** in all its might upon integration of all its modules presented above. We also made a brief video to show you how it works! Its here #Link.
 We've seen it and it is surely ❤️. We are very confident that you'll love it too.
