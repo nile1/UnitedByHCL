@@ -114,6 +114,26 @@ Xcode 9, Swift 4 and Frameworks - <br />
 			Google Cloud Platform/ Heroku for Test Deployment<br />
 			
 
+
+
+Repository Contents  
+-------------
+
+• As depicted in workflow diagram above, we are providing all the modules along with their deployment instructions. 
+
+• One of these (RedPin) is an open source project and the rest are made by us. These working modules can be considered as a prototype/ POC of our idea presented. 
+
+• Although all these modules can work independently, but the real strength of the system is achieved when we integrate them, which we proposed in Phase 1.
+
+• Once in Phase 3, we can easily integrate and build Android & iOS Apps having all these modules working together, seamlessly.
+We can't wait to show you the super exciting and marvellous solution we have achieved at Old Trafford!
+
+Module 1 :  Wifi Indore Positioning System
+Module 2 :  Bluetooth Indore Positioning System
+Module 3 :  Dead Reckoning using Pedometer & Compass
+Module 4 :  Phone Position module with respective to Human body to estimate step Length and improve Module 3.
+
+
 Concluding Remarks  
 -------------
 We are pleased to see you here! We sincerely Hope you like our submission. Its **100% Working**, We dearly look forward to Phase 3, where we can show you **IndiN** in all its might upon integration of all its modules presented above. We also made a brief video to show you how it works! Its here #Link.
