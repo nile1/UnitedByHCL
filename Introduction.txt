@@ -1,6 +1,5 @@
-#H1 (indiN) Indoor Intelligent Navigation  
-[workflow]: https://github.com/nile1/UnitedByHCL/blob/master/UnitedByHCL1.png "Workflow Diagram"
-![alt text][workflow]
+ (indiN) Indoor Intelligent Navigation  
+
 As stated in our Workflow diagram and the Idea document, we are providing a working model of all the modules stated with their deployement instructions. 
 
 Few of these are open source projects and the rest are made by us. These working modules can be considered as a prototype/ POC of our idea presented. 
