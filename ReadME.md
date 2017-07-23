@@ -129,10 +129,10 @@ Submission Content Description 🔥🔥🔥
 We can't wait to show you the super exciting and marvellous solution 👌🏻👌🏻👌🏻 we have achieved at Old Trafford!😎🤗
 <br />
 
-**Module 1 :  Wifi Indore Positioning System<br />
-Module 2 :  Bluetooth Indore Positioning System<br />
+**Module 1 :  Wifi Indoor Positioning System<br />
+Module 2 :  Bluetooth Indoor Positioning System<br />
 Module 3 :  Dead Reckoning using Pedometer & Compass<br />
-Module 4 :  Phone Position module with respective to Human body to estimate step Length and improve Module 3.**<br />
+Module 4 :  Phone Position module  to estimate step Length with respective to Human body and improve Module 3.**<br />
 
 
 Concluding Remarks  🙏🏻
