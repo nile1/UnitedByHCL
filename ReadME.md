@@ -134,6 +134,8 @@ Module 2 :  Bluetooth Indoor Positioning System<br />
 Module 3 :  Dead Reckoning using Pedometer & Compass<br />
 Module 4 :  Phone Position module  to estimate step Length with respective to Human body and improve Module 3.**<br />
 
+![Snap](https://github.com/nile1/UnitedByHCL/blob/master/Screen%20Shot%202017-07-23%20at%2010.33.20_nexus4_portrait.png "ScreenPeak.png")
+
 
 Concluding Remarks  🙏🏻
 -------------
