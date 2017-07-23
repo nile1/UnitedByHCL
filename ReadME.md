@@ -11,8 +11,8 @@ Welcome to IndiN (Indoor Intelligent Navigation)
 ----------
 
 
-1.	Title - (indiN) Indoor Intelligent Navigation   
-===================
+#H1 1.	Title - (indiN) Indoor Intelligent Navigation   
+
 ![WorkFlow Diagram](https://lh3.googleusercontent.com/-kKH7G_lTGRA/WXRAYR0RL0I/AAAAAAAAK-o/waRnnrT-cKI5a3vDblcrIvQbcdVvSZVQQCE0YBhgL/s0/UnitedByHCL1.png "UnitedByHCL1.png")
 
 2.	Contextual Information & Workflow  
